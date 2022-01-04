@@ -2,6 +2,8 @@
 
 dotnet library that help you to handle the Github webhooks with typed objects.
 
+## DEPRECATED: USE [octokit/webhooks.net](https://github.com/octokit/webhooks.net)
+
 ### Events available
 
 - PullRequest
